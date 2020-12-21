@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">BigBook</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="map_key" translatable="false">AIzaSyAyksaI-Mk77F_84UK-qib4X5TD7aMBXsY</string>
+    <string name="mssv_dh51701479">MSSV : DH51701479</string>
+    <string name="l_p_d17_th04">Lớp : D17-TH04</string>
+    <string name="t_n_l_h_i_d_ng">Tên : Lê Hải Dương</string>
+    <string name="email_haiduong6109_gmail_com">Email: haiduong6109@gmail.com</string>
+    <string name="sdt_0383589869">SDT : 0383589869</string>
+    <string name="t_n">Tên:</string>
+    <string name="t_c_gi">Tác Giả:</string>
+    <string name="gi">Giá:</string>
+    <string name="m_s_ch">Mã Sách:</string>
+    <string name="lo_i">Loại:</string>
+    <string name="th_m">Thêm</string>
+</resources>
