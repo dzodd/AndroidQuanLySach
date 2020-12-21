@@ -9,7 +9,10 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.AndroidQLSach">
-        <activity android:name=".Activityhinhanh"></activity>
+        <activity android:name=".NuocngoaiActivity"></activity>
+        <activity android:name=".VietnamActivity" />
+        <activity android:name=".khoActivity" />
+        <activity android:name=".Activityhinhanh" />
         <activity android:name=".ThemsuachitietActivity" />
         <activity android:name=".ChitietActivity" />
         <activity android:name=".ActivitySach" />
