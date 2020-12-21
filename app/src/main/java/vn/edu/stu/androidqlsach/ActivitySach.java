@@ -71,14 +71,14 @@ public class ActivitySach extends AppCompatActivity {
             case R.id.menuexit:
                 finishAffinity();
                 break;
-           // case R.id.menuabout:
-               // Intent intent=new Intent(getApplicationContext(),AboutActivity.class);
-               // startActivity(intent);
-              //  break;
-           // case R.id.menukho:
-                //Intent intent2=new Intent(getApplicationContext(),KhoActivity.class);
-               // startActivity(intent2);
-               // break;
+            case R.id.menuabout:
+                Intent intent=new Intent(getApplicationContext(),AboutActivity.class);
+                startActivity(intent);
+                break;
+            case R.id.menukho:
+                Intent intent2=new Intent(getApplicationContext(),khoActivity.class);
+                startActivity(intent2);
+                break;
             case R.id.menuehome:
                 Intent intent3=new Intent(getApplicationContext(),ActivitySach.class);
                 startActivity(intent3);

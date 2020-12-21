@@ -55,7 +55,7 @@ public class ChitietActivity extends AppCompatActivity {
 
     }
 
-    /* @Override
+     @Override
      public boolean onOptionsItemSelected(@NonNull MenuItem item) {
          switch (item.getItemId()){
              case R.id.menuexit:
@@ -66,7 +66,7 @@ public class ChitietActivity extends AppCompatActivity {
                  startActivity(intent);
                  break;
              case R.id.menukho:
-                 Intent intent2=new Intent(getApplicationContext(),KhoActivity.class);
+                 Intent intent2=new Intent(getApplicationContext(),khoActivity.class);
                  startActivity(intent2);
                  break;
              case R.id.menuehome:
@@ -75,7 +75,7 @@ public class ChitietActivity extends AppCompatActivity {
          }
 
          return super.onOptionsItemSelected(item);
-     }*/
+     }
     private void addEvents() {
         fabthem.setOnClickListener(new View.OnClickListener()
         {

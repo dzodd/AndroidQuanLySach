@@ -92,7 +92,7 @@ public class VietnamActivity extends AppCompatActivity {
         return super.onCreateOptionsMenu(menu);
     }
 
-   /* @Override
+   @Override
     public boolean onOptionsItemSelected(@NonNull MenuItem item) {
         switch (item.getItemId()){
             case R.id.menuexit:
@@ -103,7 +103,7 @@ public class VietnamActivity extends AppCompatActivity {
                 startActivity(intent);
                 break;
             case R.id.menukho:
-                Intent intent2=new Intent(getApplicationContext(),KhoActivity.class);
+                Intent intent2=new Intent(getApplicationContext(),khoActivity.class);
                 startActivity(intent2);
                 break;
             case R.id.menuehome:
@@ -112,5 +112,5 @@ public class VietnamActivity extends AppCompatActivity {
         }
 
         return super.onOptionsItemSelected(item);
-    }*/
+    }
 }
