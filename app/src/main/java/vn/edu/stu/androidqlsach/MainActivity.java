@@ -60,9 +60,9 @@ public class MainActivity extends AppCompatActivity {
                     Toast.LENGTH_SHORT
 
             ).show();
-            //Intent intent=new Intent(MainActivity.this,ActivitySach.class);
-           // startActivity(intent);
-            //finish();
+            Intent intent=new Intent(MainActivity.this,ActivitySach.class);
+            startActivity(intent);
+            finish();
             if (chkRememberMe.isChecked()){
                 SharedPreferences preferences = getSharedPreferences(
                         COOKIE,

@@ -7,4 +7,9 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="login">#76CD7A</color>
+    <color name="exit">#433D3D</color>
+    <color name="register">#6DDDC4C4</color>
+    <color name="titleSach">#BF218532</color>
+    <color name="gia">#BF141514</color>
 </resources>
